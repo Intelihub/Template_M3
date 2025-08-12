@@ -67,7 +67,7 @@ Remova este bloco ao final
 ### 4.1. Compreensão do Problema
 #### 4.1.1. Contexto da indústria 
 ```
-Descreva os principais players, modelos de negócio e tendências acerca dos modelos preditivos.
+Descreva aqui o Contexto Setorial e posicione a análise das 5 Forças de Porter
 
 Remova este bloco ao final
 ```
